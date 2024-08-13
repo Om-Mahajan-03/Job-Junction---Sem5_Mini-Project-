@@ -1,4 +1,4 @@
-# jobsConnect
+# jobsjunction
 
 - Features
   - Entities
