@@ -16,11 +16,3 @@
   - Import the sql file (in the database folder) in the PHPMyAdmin Panel in a database named 'jobportal'
   - To run the site, type localhost/jobConnect in your browser
   
-
-
-Employer Dashboard:
-![image](https://user-images.githubusercontent.com/83655913/233123671-769dda2a-27b1-4fc0-a33e-a7c4da309773.png)
-
-Jobseeker Dashboard:
-![image](https://user-images.githubusercontent.com/83655913/233124233-1497c8b8-16b8-4d0f-9bf4-8e9d330ef958.png)
-
